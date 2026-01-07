@@ -1,5 +1,7 @@
 # RFM-Project-Python-
 
+An end-to-end customer segmentation project using RFM analysis to identify high-value and at-risk customers from transactional and master data.
+
 ### 📌 Overview
 
 Understanding customer behavior is critical for businesses to improve retention and optimize marketing efforts.
